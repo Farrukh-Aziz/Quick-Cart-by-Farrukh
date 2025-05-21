@@ -4,5 +4,6 @@
   "/all-products/page": "app/all-products/page.js",
   "/product/[id]/page": "app/product/[id]/page.js",
   "/cart/page": "app/cart/page.js",
-  "/seller/page": "app/seller/page.js"
+  "/seller/page": "app/seller/page.js",
+  "/add-address/page": "app/add-address/page.js"
 }
